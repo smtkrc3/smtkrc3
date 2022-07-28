@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smtkrc3
-- 👀 I’m interested in aerospace
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in aerospace and artificial intelligence.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
